@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">A passionate fullstack developer and software engineer</h3>
 
-<img align="right" alt="coding" width="400" height="300"  src="https://www.bing.com/th/id/OGC.75e7ef7aa27009befb076509382b86b8?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f75%2fe7%2fef%2f75e7ef7aa27009befb076509382b86b8.gif&ehk=DbbFry%2b6CWoi9zlcGgRgHZxmObAAR%2fWJD53t5bgZB50%3d"/>
+<img align="right" alt="coding" width="1000" height="500"  src="https://www.bing.com/th/id/OGC.75e7ef7aa27009befb076509382b86b8?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f75%2fe7%2fef%2f75e7ef7aa27009befb076509382b86b8.gif&ehk=DbbFry%2b6CWoi9zlcGgRgHZxmObAAR%2fWJD53t5bgZB50%3d"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ku12al&label=Profile%20views&color=0e75b6&style=flat" alt="ku12al" /> </p>
 
