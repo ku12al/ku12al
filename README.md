@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ku12al" alt="ku12al" /></a> </p>
 
-- 🌱 I’m currently learning **computer science and engineering**
+- 🌱 I’m pursing B.tech in **computer science and engineering** stream
 
 - 📫 How to reach me **kunalsharma1272003@gmail.com**
 
