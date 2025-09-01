@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ku12al" alt="ku12al" /></a> </p>
 
-- 🌱 I’m pursing B.tech in **computer science and engineering** stream
+- 🌱 I have completed my B.tech in **computer science and engineering** stream
 
 - 📫 How to reach me **kunalsharma1272003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-kumar-2ab402263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal sharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kunal_127" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunal_127" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ks1140175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ks1140175" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kunalsharma127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunalsharma127" height="30" width="40" /></a>
